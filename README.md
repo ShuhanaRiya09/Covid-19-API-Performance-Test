@@ -10,28 +10,11 @@ This project focuses on performance testing of the COVID-19 Global Statistics AP
 
 ## How to Run Performance Tests?
 ###Execute the following commands:
-- ```Step 1: Install JMeter
-Download Apache JMeter from the official website.
-Unzip the downloaded file to a preferred location on your system.
-Add the JMeter bin directory to your system's PATH environment variable.  ```
-- ```Step 2: Setup JMeter
-Open the JMeter GUI by running the jmeter.bat (Windows) or jmeter.sh (Unix) script from the bin directory.```
-- ```Step 3: Create a JMeter Test Plan
-Add a Thread Group:Right-click on the Test Plan and select Add > Threads (Users) > Thread Group.
-Configure the number of threads (users), ramp-up period, and loop count as required.
-Add an HTTP Request:Right-click on the Thread Group and select Add > Sampler > HTTP Request.
-Set the server name or IP to disease.sh and the path to /v3/covid-19/all.
-Choose the HTTP method as GET.
-Add Listeners:Right-click on the Thread Group and select Add > Listener > View Results Tree.
-Add other listeners like Summary Report, Aggregate Report, and Graph Results for detailed analysis.
-Save the Test Plan:
-Save the test plan to a preferred location.```
-- ```Step 4: Run the Test Plan
-Load the test plan in JMeter.
-Click the green Start button to begin the test.
-Monitor the results using the listeners added.``` 
-- ```Step 5: Analyze the Results
-Review the data in the listeners to analyze the API's performance.```
+- ```Run the jmeter.bat (Windows) or jmeter.sh (Unix) script from the bin directory. ```
+- ```Open JMeter GUI and load the provided test plan file (covid19_test_plan.jmx).```
+- ```Open JMeter GUI and load the provided test plan file (covid19_test_plan.jmx).```
+- ```Click the green Start button in JMeter to begin the test.``` 
+- ```View results using the added listeners (e.g., View Results Tree, Summary Report).```
 
 
 
