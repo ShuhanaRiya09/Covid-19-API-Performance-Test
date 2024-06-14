@@ -41,10 +41,10 @@ You can download the Excel files from the following links:
 ![s](https://github.com/ShuhanaRiya09/Random-Covid-19-API-Performance-Test/assets/108625095/c5903eb9-7c26-42a1-baf4-d2cb342af1db)
 
 ## Outputs:
-## Jmeter HTML Report:
-![1report](https://github.com/ShuhanaRiya09/Covid-19-API-Performance-Test/assets/108625095/ea72a44c-fd7f-4fb4-ab9a-4098e56babbb)
 
-![image](https://github.com/ShuhanaRiya09/Covid-19-API-Performance-Test/assets/108625095/49cbceda-1409-45a6-bd5f-ce650fe0e4ec)
+## Jmeter HTML Report:
+
+![1report](https://github.com/ShuhanaRiya09/Covid-19-API-Performance-Test/assets/108625095/ea72a44c-fd7f-4fb4-ab9a-4098e56babbb)
 
 
 ## Bottleneck and Capacity TPS :
