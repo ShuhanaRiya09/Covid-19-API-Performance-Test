@@ -9,12 +9,26 @@ This project focuses on performance testing of the COVID-19 Global Statistics AP
 - Apache JMeter (Latest version)
 
 ## How to Run Performance Tests?
+### Run Test Plan and Generate Report
 ###Execute the following commands:
 - ```Run the jmeter.bat (Windows) or jmeter.sh (Unix) script from the bin directory. ```
 - ```Open JMeter GUI and load the provided test plan file (covid19_test_plan.jmx).```
 - ```Open JMeter GUI and load the provided test plan file (covid19_test_plan.jmx).```
 - ```Click the green Start button in JMeter to begin the test.``` 
-- ```View results using the added listeners (e.g., View Results Tree, Summary Report).```
+- ```View results using the added listeners (e.g., View Results Tree, Summary Report).``` or
+
+## Using JMeter CLI
+###Execute the following command to run the test plan in non-GUI mode:
+
+- ```TO Run Test Plan:
+   Execute: jmeter -n -t yourFile.jmx -l yourFile.csv.```
+- ``` To Generate Report:
+Execute:jmeter -n -t yourFile.jmx -l yourFile.csv -e -o Reports.```
+
+
+
+
+
 
 
 
