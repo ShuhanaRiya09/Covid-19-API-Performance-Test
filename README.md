@@ -1,4 +1,4 @@
-
+![s](https://github.com/ShuhanaRiya09/Random-Covid-19-API-Performance-Test/assets/108625095/86535cf9-ce00-4f25-ba86-67b60f78140d)
 # Project Title: Performance Testing of COVID-19 Global Statistics API
 
 ## Project Summary : 
@@ -21,12 +21,16 @@ This project focuses on performance testing of the COVID-19 Global Statistics AP
 ## Documentation:
 https://documenter.getpostman.com/view/35122212/2sA3QwapS7
 
-## Excel Files for Test Case and Bug Report
-
+## Excel Files for Load test and Stress test:
 You can download the Excel files from the following links:
-- [StandardTestCase.xlsx](https://docs.google.com/spreadsheets/d/1mdeZUak9MBJQspSHeXJPq9vIo4lyfQFn/edit?usp=sharing&ouid=106900521374584856661&rtpof=true&sd=true)
-- [Bug-Report.xlsx](https://docs.google.com/spreadsheets/d/1OCxu2rrFV9g8ckNuLonuKW0Doz8oeF2d/edit?usp=sharing&ouid=106900521374584856661&rtpof=true&sd=true)
-
+- [Load&stresstest.xlsx](https://docs.google.com/spreadsheets/d/1NQoul8f9fX15vutBTHN46yBVwDtDyF7A/edit?usp=sharing&ouid=106900521374584856661&rtpof=true&sd=true)
 
 ## Outputs:
-![Screenshot (724)](https://github.com/ShuhanaRiya09/repo_for_demoney/assets/108625095/a5fa52d6-5a6b-47f1-8d5c-8189cf51bd9c)
+## Screetshot of Excel sheets
+## Load Test:
+![Load](https://github.com/ShuhanaRiya09/Random-Covid-19-API-Performance-Test/assets/108625095/2e171cf0-e342-4fcc-bda0-6c8d3fa314c2)
+## Stress Test:
+![s](https://github.com/ShuhanaRiya09/Random-Covid-19-API-Performance-Test/assets/108625095/c5903eb9-7c26-42a1-baf4-d2cb342af1db)
+
+
+
