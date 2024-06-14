@@ -20,8 +20,10 @@ This project focuses on performance testing of the COVID-19 Global Statistics AP
 ## Using JMeter CLI
 ###Execute the following command to run the test plan in non-GUI mode:
 
-- ```## TO Run Test Plan: Execute: jmeter -n -t yourFile.jmx -l yourFile.csv.```
-- ```## To Generate Report: Execute:jmeter -n -t yourFile.jmx -l yourFile.csv -e -o Reports.```
+- ```To Run Test Plan:
+   Execute: jmeter -n -t yourFile.jmx -l yourFile.csv.```
+- ```To Generate Report:
+  Execute:jmeter -n -t yourFile.jmx -l yourFile.csv -e -o Reports.```
 
 
 
