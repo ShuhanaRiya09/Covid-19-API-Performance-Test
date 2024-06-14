@@ -25,13 +25,6 @@ This project focuses on performance testing of the COVID-19 Global Statistics AP
 - ```
   To Generate Report: Execute:jmeter -n -t yourFile.jmx -l yourFile.csv -e -o Reports.```
 
-
-
-
-
-
-
-
 ## Resources:
 
 ## Load Test and Stress Test reports in Excel format.
