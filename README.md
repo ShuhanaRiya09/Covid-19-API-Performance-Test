@@ -50,5 +50,8 @@ The system starts to show a 0.67% error rate at a TPS of 9.15
 ## Capacity TPS
 The maximum sustainable TPS the system can handle without errors is 7.52
 
+## Conclusion
+The performance testing of the Random User API demonstrated its ability to handle the expected load of 120,000 users over 12 hours. The Load Test confirmed the API meets the required TPS, while the Stress Test identified the bottleneck at which a 1% error rate occurs. These insights provide a foundation for future optimizations and scaling efforts, ensuring the API remains robust under increased loads.
+
 
 
