@@ -35,6 +35,12 @@ You can download the Excel files from the following links:
 ## Load Test:
 ![Load](https://github.com/ShuhanaRiya09/Random-Covid-19-API-Performance-Test/assets/108625095/2e171cf0-e342-4fcc-bda0-6c8d3fa314c2)
 ## Stress Test:
+## Bottleneck and Capacity TPS
+## Bottleneck Point
+The system starts to show a 0.67% error rate at a TPS of 9.15
+
+## Capacity TPS
+The maximum sustainable TPS the system can handle without errors is 7.52
 ![s](https://github.com/ShuhanaRiya09/Random-Covid-19-API-Performance-Test/assets/108625095/c5903eb9-7c26-42a1-baf4-d2cb342af1db)
 
 
